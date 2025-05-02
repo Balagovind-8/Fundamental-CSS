@@ -6,7 +6,7 @@ body {
 html {
   font-family: 'Helvetica neue', Arial, 'sans serif';
   font-size: 10px;
-  background-color: #ccc;
+  background-color: #15057d;
 }
 
 /* Card container */
@@ -14,7 +14,7 @@ html {
   width: 35em;
   height: 22em;
   margin: 5em auto;
-  background-color:blue;
+  background-color: #15057d;
   border: 0.2em solid black;
   border-radius: 1.5em;
 }
